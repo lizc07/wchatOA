@@ -2,8 +2,8 @@
 WeChat Official Accounts Developer Mode
 
 ## How to Use ？
-
- `python main.py 80` or `nohup python main.py 80 > log 2>&1 &`
+1. Modify the local path and url in scihub.py to localizate this APP.
+2. Use `python main.py 80` or `nohup python main.py 80 > log 2>&1 &` to run.
 
 
 ## History
