@@ -7,7 +7,7 @@ WeChat Official Accounts Developer Mode
 
 
 ## History
-- version 0.1.0
+- version 0.1.0 - 2017/03/30
 1. Initialize the development server
 2. Support downloading paper and return dowload_url, with 'paper doi_id'
 3. Support automatically Email to User, with 'paper doi_id email usr_email_list'
