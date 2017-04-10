@@ -9,7 +9,7 @@ WeChat Official Accounts Developer Mode
 ## History
 - version 0.1.2 - 2017/04/10
 1. fix some bugs due to wrong url captured from sci-hub.cc
-2. add dx.doi.org database to achive url source, when get NULL file from sci-hub.cc
+2. add dx.doi.org database to achive url source, when getting NULL file from sci-hub.cc
 
 - version 0.1.0 - 2017/03/30
 1. Initialize the development server
