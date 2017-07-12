@@ -1,4 +1,4 @@
-# wchatOA
+# wechatOA
 WeChat Official Accounts Developer Mode
 
 ## How to Use ？
